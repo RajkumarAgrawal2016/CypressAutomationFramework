@@ -1,0 +1,7 @@
+
+node -v , find node version
+npm init -y  create package json file
+npm install cypress --save-dev     to install cypress
+npx cypress install
+npx cypress open to open cypress
+npx cypress run
